@@ -1,0 +1,19 @@
+{
+  "name": "packagejson",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hereidk/angular-phonecat.git"
+  },
+  "author": "Kelly Hereid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hereidk/angular-phonecat/issues"
+  },
+  "homepage": "https://github.com/hereidk/angular-phonecat#readme"
+}
